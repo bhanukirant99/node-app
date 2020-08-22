@@ -1,0 +1,1 @@
+This is written by nodejs core mudules -> fs.writeFileSync functionThis is written by nodejs core mudules -> fs.appendFileSync function This is written by nodejs core mudules -> fs.appendFileSync function. This is written by nodejs core mudules -> fs.appendFileSync function
